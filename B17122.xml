@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Another order for contribvtions for maymed and diseased souldiers who have been employed under the command of His Excellencie the Earl of Essex in the army set forth by both Houses of Parliament together with an order of the sayd House, for the authorizing of severall persons to make diligent search in their severall precincts for the apprehending and disarming dangerous and suspected persons, and them to bring before the committee of examinations.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17122</idno><idno type="EEBO-CITATION">12175242</idno>
+  <idno type="VID">197190</idno>
+  <idno type="EEBO-PROQUEST">2240950463</idno>
+  
+            <idno type="STC">Wing A3272</idno>
+            <idno type="OCLC">12175242</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17122)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197190)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 244:E99, no 10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Another order for contribvtions for maymed and diseased souldiers who have been employed under the command of His Excellencie the Earl of Essex in the army set forth by both Houses of Parliament together with an order of the sayd House, for the authorizing of severall persons to make diligent search in their severall precincts for the apprehending and disarming dangerous and suspected persons, and them to bring before the committee of examinations.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Husbands ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Aprill 21, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197190:1"/>
+            <p>Another ORDER FOR CONTRIBVTIONS For Maymed and diseased Souldiers, who have been employed under the Command of his Excellencie the Earl of <hi>Essex,</hi> in the Army set forth by both Houses of PARLIAMENT.</p>
+            <p>Together with an Order of the sayd House, for the Authorizing of severall persons to make diligent search in their se<g ref="char:EOLhyphen"/>verall Precincts, for the apprehending and disarming dangerous and suspected persons, and them <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o bring before the COMMITTEE of <hi>Examinations.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Ordered by the Commons Assembled in Parliament, That these Orders be forthwith Print<gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>d and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>Hen: Elsynge Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edw. Husbands,</hi> and are to be sold at his shop in the middle Temple. Aprill 21. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="order">
+            <pb facs="tcp:197190:2"/>
+            <pb n="3" facs="tcp:197190:2"/>
+            <opener>
+               <dateline>
+                  <date>Die Veneris; <hi>21.</hi> April: <hi>1643.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <head>An other Order for Contributions for such Maymed and decayed Souldiers who have been employed under the Command of his Excellencie the Earle of ESSEX.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas many well-affected people out of zeale and faithfullnesse to the preservation of the true Protestant Religion, Laws, and Liberties of this Kingdom, have gone forth under the command of his Excellency the Earl of <hi>Essex,</hi> in the Army set forth by the Parliament: and divers of them have in severall Battles and Fights with the ene<g ref="char:EOLhyphen"/>mies of the King and Kingdom, been sore wounded and maymed, and others fallen into
+<pb n="4" facs="tcp:197190:3"/>severall diseases and sicknesses, by reason of watch<g ref="char:EOLhyphen"/>ing and other casualty in War, whereby the are for the present dis-inabled from the said ser<g ref="char:EOLhyphen"/>vice, or releeving themselves any other way till it shall please God they be recovered.</p>
+            <p>It is this day Ordered by the Commons in Parliament, That a generall collection by way of contribution for, and towards the defraying the charge of releiving the said may med and sick souldiers, during the time of their cure be made in every parish Church of all those parishes that are mentioned within the weekly Bill of <hi>London,</hi> together with the Counties of Middlesex and Surrey, by the Church-wardens, Collectors for the poor, Sidesmen, or Constables of each of the aforesaid Parishes, on the next generall Fast-day, being the six and twentieth of this instant <hi>April;</hi> and the monies so collected by them, to pay unto Master <hi>Holland</hi> and Master <hi>Iennor,</hi> Members of the said House of COM<g ref="char:EOLhyphen"/>MONS, or their Deputies at Goldsmiths-Hall in <hi>London,</hi> on the Friday next after the said Fast<g ref="char:EOLhyphen"/>day, by them to be disposed of to the uses afore<g ref="char:EOLhyphen"/>said, in such manner as the Committee appoin<g ref="char:EOLhyphen"/>ted by the House of Commons for maymed Souldiers shall from time to time direct. And
+<pb n="5" facs="tcp:197190:3"/>it is further ordered that the Minister of every the said Parishes shall publish this Order in the Churches immediatly after Sermon on the said Fast-day; and shall exhort the People to a li<g ref="char:EOLhyphen"/>berall contribution to this so pious and cha<g ref="char:EOLhyphen"/>ritable aworke.</p>
+            <closer>
+               <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="order">
+            <pb n="6" facs="tcp:197190:4"/>
+            <opener>
+               <dateline>
+                  <date>Die Veneris <hi>21.</hi> April. <hi>1643.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is ordered by the House of Commons, That the per<g ref="char:EOLhyphen"/>sons here under written, ta<g ref="char:EOLhyphen"/>king with them the Consta<g ref="char:EOLhyphen"/>bles of each severall parish, shall be au<g ref="char:EOLhyphen"/>thorised (and are hereby required) to make dilligent search in all such hou<g ref="char:EOLhyphen"/>ses and places in their severall and re<g ref="char:EOLhyphen"/>spective parishes as they shall think fit; for the finding, apprehending, and disarming of such dangerous and other suspected persons as do remain and lurk within the said parishes and cannot give an account of any just cause of their being there. And that they bring them before the Committee of Examinations, there to
+<pb n="7" facs="tcp:197190:4"/>be further dealt withall as the case shall require. And it is further ordered, that for the better execution of this Order, Co<g ref="char:EOLhyphen"/>lonell <hi>Manwaring,</hi> Captain <hi>Harvey;</hi> and Captain <hi>Titchburn,</hi> and every of them, with a competent number of souldiers shall be ayding and assisting to the said Parishioners upon all occasions, (timely notice being first given to the said Colo<g ref="char:EOLhyphen"/>nell and Captains, by the said severall and respective Parishioners.)</p>
+            <closer>
+               <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
